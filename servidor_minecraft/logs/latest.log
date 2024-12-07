@@ -322,3 +322,4 @@
 [07Dec2024 16:24:47.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 left the game
 [07Dec2024 16:25:35.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
 [07Dec2024 16:26:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Fortuitous Militia]
+[07Dec2024 16:39:30.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/81960, l='ServerLevel[world]', x=-711.28, y=68.00, z=568.67] died, message: 'Nitwit was slain by Zombie'
