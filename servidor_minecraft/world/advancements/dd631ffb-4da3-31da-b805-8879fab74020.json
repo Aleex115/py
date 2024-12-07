@@ -4388,6 +4388,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-12-07 16:54:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2024-12-07 15:49:01 +0000"
@@ -4457,6 +4463,12 @@
   "gobber2:gobber2_ring_curing": {
     "criteria": {
       "gobber2_ring_curing": "2024-12-07 16:10:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-07 16:54:29 +0000"
     },
     "done": true
   },

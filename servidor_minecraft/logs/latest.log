@@ -323,3 +323,8 @@
 [07Dec2024 16:25:35.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
 [07Dec2024 16:26:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK has reached the goal [Fortuitous Militia]
 [07Dec2024 16:39:30.771] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/81960, l='ServerLevel[world]', x=-711.28, y=68.00, z=568.67] died, message: 'Nitwit was slain by Zombie'
+[07Dec2024 16:52:55.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Gave 500 experience points to Alex115KLK]
+[07Dec2024 16:52:56.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Gave 500 experience points to Alex115KLK]
+[07Dec2024 16:53:03.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Gave 50 experience points to Alex115KLK]
+[07Dec2024 16:53:06.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Gave 50 experience points to Alex115KLK]
+[07Dec2024 16:55:33.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-721, y=61, z=858} BlockPos{x=-722, y=60, z=858}
