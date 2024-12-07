@@ -376,3 +376,5 @@
 [07Dec2024 17:07:58.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-701, y=57, z=464} BlockPos{x=-704, y=58, z=463}
 [07Dec2024 17:07:58.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-702, y=57, z=464} BlockPos{x=-704, y=58, z=463}
 [07Dec2024 17:08:48.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-676, y=60, z=492} BlockPos{x=-679, y=60, z=491}
+[07Dec2024 17:25:36.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
+[07Dec2024 17:25:36.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
