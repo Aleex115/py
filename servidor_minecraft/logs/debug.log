@@ -1662,3 +1662,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Dec2024 14:08:33.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
 [08Dec2024 14:10:49.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Dec2024 14:10:49.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 14:15:07.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Creative Mode]
+[08Dec2024 14:15:49.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 14:15:49.165] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 14:16:19.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Alex115KLK: Set own game mode to Survival Mode]
+[08Dec2024 14:20:49.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 14:20:49.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
