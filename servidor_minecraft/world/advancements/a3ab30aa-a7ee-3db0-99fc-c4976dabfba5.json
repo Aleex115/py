@@ -4196,9 +4196,9 @@
     },
     "done": true
   },
-  "gobber2:gobber2_ingot": {
+  "gobber2:gobber2_ring_haste": {
     "criteria": {
-      "gobber2_ingot": "2024-12-07 15:16:04 +0000"
+      "gobber2_ring_haste": "2024-12-07 14:43:55 +0000"
     },
     "done": true
   },
@@ -4208,27 +4208,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2024-12-07 14:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-12-07 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
+    "criteria": {
+      "has_deepslate_gold_ore": "2024-12-07 15:02:13 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2024-12-07 15:16:04 +0000"
+    },
+    "done": true
+  },
   "gobber2:gobber2_sword": {
     "criteria": {
       "gobber2_sword": "2024-12-07 15:16:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
+  "gobber2:gobber2_rod": {
     "criteria": {
-      "has_paper": "2024-12-07 15:44:55 +0000"
+      "gobber2_rod": "2024-12-07 15:16:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "has_bone_meal": "2024-12-07 15:41:32 +0000"
+      "blacksmith": "2024-12-07 15:24:11 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
     "criteria": {
-      "has_log": "2024-12-07 16:09:02 +0000"
+      "has_polished_blackstone_slab": "2024-12-07 15:28:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2024-12-07 15:28:02 +0000"
     },
     "done": true
   },
@@ -4250,63 +4280,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
-    "criteria": {
-      "has_smithing_trim_template": "2024-12-07 16:00:10 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_armor": {
-    "criteria": {
-      "gobber2_helmet": "2024-12-07 15:56:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enchant_item": {
-    "criteria": {
-      "enchanted_item": "2024-12-07 15:37:16 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_rod": {
-    "criteria": {
-      "gobber2_rod": "2024-12-07 15:16:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab": {
     "criteria": {
       "has_polished_blackstone": "2024-12-07 15:30:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2024-12-07 15:45:49 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_ring_haste": {
-    "criteria": {
-      "gobber2_ring_haste": "2024-12-07 14:43:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
-    "criteria": {
-      "has_polished_blackstone_slab": "2024-12-07 15:28:02 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2024-12-07 15:24:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_blasting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2024-12-07 15:02:13 +0000"
     },
     "done": true
   },
@@ -4352,48 +4328,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2024-12-07 15:44:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2024-12-07 15:28:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
-    "criteria": {
-      "has_rib_armor_trim_smithing_template": "2024-12-07 16:00:10 +0000"
-    },
-    "done": true
-  },
-  "gobber2:gobber2_medallion_hero": {
-    "criteria": {
-      "gobber2_medallion_hero": "2024-12-07 15:43:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_smelting_deepslate_gold_ore": {
-    "criteria": {
-      "has_deepslate_gold_ore": "2024-12-07 15:02:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/summon_wither": {
-    "criteria": {
-      "summoned": "2024-12-07 16:12:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/warped_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2024-12-07 16:09:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone": "2024-12-07 15:30:25 +0000"
@@ -4406,21 +4340,87 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
-    "criteria": {
-      "has_lapis_ore": "2024-12-07 14:59:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2024-12-07 15:30:25 +0000"
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2024-12-07 15:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-07 15:41:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-12-07 15:41:32 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_medallion_hero": {
+    "criteria": {
+      "gobber2_medallion_hero": "2024-12-07 15:43:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-07 15:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-07 15:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2024-12-07 15:45:49 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_armor": {
+    "criteria": {
+      "gobber2_helmet": "2024-12-07 15:56:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-07 16:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2024-12-07 16:00:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-07 16:09:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-12-07 16:09:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2024-12-07 16:12:55 +0000"
     },
     "done": true
   },

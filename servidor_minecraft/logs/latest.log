@@ -493,3 +493,5 @@
 [08Dec2024 14:55:15.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-763, y=63, z=537} BlockPos{x=-766, y=63, z=538}
 [08Dec2024 14:55:16.827] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Alex115KLK lost connection: Disconnected
 [08Dec2024 14:55:16.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Alex115KLK left the game
+[08Dec2024 14:58:49.980] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: N1L0X97[/127.32.182.78:39145] logged in with entity id 14215 at (-849.6079426891125, 76.0, 600.9640703604823)
+[08Dec2024 14:58:49.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: N1L0X97 joined the game
