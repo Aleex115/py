@@ -4430,5 +4430,17 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ring_vision": {
+    "criteria": {
+      "gobber2_ring_vision": "2024-12-08 15:52:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-08 15:48:32 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
