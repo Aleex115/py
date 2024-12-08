@@ -2256,3 +2256,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [08Dec2024 15:00:49.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [08Dec2024 15:05:49.093] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Dec2024 15:05:49.100] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 15:10:49.119] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 15:10:49.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Dec2024 15:15:49.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Dec2024 15:15:49.102] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
